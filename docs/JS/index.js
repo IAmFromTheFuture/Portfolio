@@ -1,6 +1,7 @@
 var clickCounter = 1;
 var timer = 1;
-window.setInterval (updateFunction, 10);
+window.setInterval (updateFunction, 1000);
+window.
 
 
 window.onclick = testFunction;
